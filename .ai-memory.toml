@@ -1,0 +1,3 @@
+workspace = "default"
+project = "proj-aula-ola-mundo-c-2135"
+project_strategy = "repo-root"
